@@ -1,2 +1,1 @@
-# MyPythonProject
-I want to learn Python
+FirstPythonProject.py
